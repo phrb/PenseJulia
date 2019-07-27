@@ -6,8 +6,6 @@
 
 *Traduzido para o Português e adaptado para o Notebook Jupyter por* [Pedro Bruel](pedro.bruel@gmail.com)
 
-***
-
 ## Licença
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" align="left" width=200 alt="CC BY NC 3.0 Logo" title="CC BY NC 3.0 Logo" /><br><br><br><br>
