@@ -10,7 +10,7 @@
 
 ## Licença
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" align="left" width=200 alt="CC BY NC 3.0 Logo" title="CC BY NC 3.0 Logo" /><br><br><br><br>
+![CC BY NC 3.0 Logo](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
 
 Copyright © 2018 Allen Downey, Ben Lauwens. Todos os direitos reservados.
 
