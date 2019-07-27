@@ -8,6 +8,8 @@
 
 ## Licença
 
+![CC BY NC 3.0 Logo](img/by-nc.png)
+
 Copyright © 2018 Allen Downey, Ben Lauwens. Todos os direitos reservados.
 
 *Pense em Julia: Como pensar como um Cientista da Computação* é uma adaptação do livro *Think Julia*, e é disponibilizado sob a licença [Atribuição-NãoComercial 3.0 Não Adaptada (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/deed.pt_BR).
