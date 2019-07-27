@@ -8,7 +8,7 @@
 
 ## Licença
 
-![CC BY NC 3.0 Logo](../img/by-nc.png)
+![CC BY NC 3.0 Logo]({{ site.url }}/img/by-nc.png)
 
 Copyright © 2018 Allen Downey, Ben Lauwens. Todos os direitos reservados.
 
