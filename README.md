@@ -2,9 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phrb/PenseJulia/master)
 
-*Escrito por* [Ben Lauwens](ben.lauwens@gmail.com) & [Allen Downey](allendowney@gmail.com)
+*Escrito por* Ben Lauwens (*ben.lauwens@gmail.com*) & Allen Downey (*allendowney@gmail.com*)
 
-*Traduzido para o Português e adaptado para o Notebook Jupyter por* [Pedro Bruel](pedro.bruel@gmail.com)
+*Traduzido para Português e adaptado para o Notebook Jupyter por* Pedro Bruel (*pedro.bruel@gmail.com*) e Anderson Andrei da Silva (*anderson.andrei.silva@usp.br*)
 
 ## Licença
 
